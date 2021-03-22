@@ -1,0 +1,37 @@
+{
+  "users": [
+    {
+      "email": "rip@nostradomus.org",
+      "name": "Ellen Ripley",
+      "id": 1
+    },
+    {
+      "email": "futureboi@plutonium.net",
+      "name": "Marty McFly",
+      "id": 2
+    }
+  ],
+  "watchListMovies": [],
+  "watchLists": [
+    {
+      "id": 1,
+      "name": "realtest",
+      "userId": 2
+    },
+    {
+      "id": 2,
+      "name": "Test20",
+      "userId": 2
+    },
+    {
+      "name": "test5",
+      "userId": 2,
+      "id": 3
+    },
+    {
+      "poster": "https://image.tmdb.org/t/p/w500undefined",
+      "userId": 2,
+      "id": 5
+    }
+  ]
+}
