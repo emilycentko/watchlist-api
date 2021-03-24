@@ -11,27 +11,148 @@
       "id": 2
     }
   ],
-  "watchListMovies": [],
+  "watchListMovies": [
+    {
+      "movieId": 120,
+      "watchListId": 2,
+      "poster_path": "/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
+      "id": 1
+    },
+    {
+      "movieId": 121,
+      "watchListId": 2,
+      "poster_path": "/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg",
+      "id": 2
+    },
+    {
+      "movieId": 122,
+      "watchListId": 2,
+      "poster_path": "/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+      "id": 3
+    },
+    {
+      "movieId": 123,
+      "watchListId": 2,
+      "poster_path": "/4O3s0IGZJirPBecqEnP9qsjlTQw.jpg",
+      "id": 4
+    },
+    {
+      "movieId": 679,
+      "watchListId": 3,
+      "poster_path": "/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg",
+      "id": 5
+    },
+    {
+      "movieId": 348,
+      "watchListId": 3,
+      "poster_path": "/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
+      "id": 6
+    },
+    {
+      "movieId": 13820,
+      "watchListId": 3,
+      "poster_path": "/o4ebvSc2rWuwULA2RJQ6ap3S7xI.jpg",
+      "id": 7
+    },
+    {
+      "movieId": 1091,
+      "watchListId": 3,
+      "poster_path": "/tzGY49kseSE9QAKk47uuDGwnSCu.jpg",
+      "id": 8
+    },
+    {
+      "movieId": 9538,
+      "watchListId": 3,
+      "poster_path": "/4tgdJp09TObBSKNooYucqibC4WH.jpg",
+      "id": 9
+    },
+    {
+      "movieId": 1891,
+      "watchListId": 3,
+      "poster_path": "/7BuH8itoSrLExs2YZSsM01Qk2no.jpg",
+      "id": 10
+    },
+    {
+      "movieId": 218,
+      "watchListId": 3,
+      "poster_path": "/qvktm0BHcnmDpul4Hz01GIazWPr.jpg",
+      "id": 11
+    },
+    {
+      "movieId": 78,
+      "watchListId": 3,
+      "poster_path": "/qLX91FhHWCVrxDVsw0g2UD5c3Zk.jpg",
+      "id": 12
+    },
+    {
+      "movieId": 1362,
+      "watchListId": 1,
+      "poster_path": "/2ohvyMPhvjftLrM6S6Ljr6QrL0u.jpg",
+      "id": 22
+    },
+    {
+      "movieId": 879,
+      "watchListId": 1,
+      "poster_path": "/a6rB1lGXoGms7gWxRfJneQmAjNV.jpg",
+      "id": 13
+    },
+    {
+      "movieId": 9340,
+      "watchListId": 1,
+      "poster_path": "/eBU7gCjTCj9n2LTxvCSIXXOvHkD.jpg",
+      "id": 14
+    },
+    {
+      "movieId": 19933,
+      "watchListId": 1,
+      "poster_path": "/mEZcPMNRqTcotOZSttN5MtmJbu1.jpg",
+      "id": 15
+    },
+    {
+      "movieId": 8844,
+      "watchListId": 1,
+      "poster_path": "/vgpXmVaVyUL7GGiDeiK1mKEKzcX.jpg",
+      "id": 16
+    },
+    {
+      "movieId": 289,
+      "watchListId": 4,
+      "poster_path": "/5K7cOHoay2mZusSLezBOY0Qxh8a.jpg",
+      "id": 17
+    },
+    {
+      "movieId": 797,
+      "watchListId": 4,
+      "poster_path": "/bdXbfUir63TQHA5NTNcXPICZCW8.jpg",
+      "id": 18
+    },
+    {
+      "movieId": 238,
+      "watchListId": 4,
+      "poster_path": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+      "id": 19
+    }
+  ],
   "watchLists": [
     {
       "id": 1,
-      "name": "realtest",
+      "name": "Childhood Favorites",
       "userId": 2
     },
     {
       "id": 2,
-      "name": "Test20",
-      "userId": 2
+      "name": "LOTR Movies",
+      "userId": 1
     },
     {
-      "name": "test5",
-      "userId": 2,
+      "name": "80s Sci Fy",
+      "userId": 1,
       "id": 3
     },
     {
-      "poster": "https://image.tmdb.org/t/p/w500undefined",
+      "name": "Solid Classics",
       "userId": 2,
-      "id": 5
+      "id": 4
     }
   ]
 }
