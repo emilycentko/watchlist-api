@@ -9,111 +9,24 @@
       "email": "futureboi@plutonium.net",
       "name": "Marty McFly",
       "id": 2
-    }
-  ],
-  "watchListMovies": [
-    {
-      "movieId": 120,
-      "watchListId": 2,
-      "poster_path": "/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
-      "id": 1
     },
     {
-      "movieId": 121,
-      "watchListId": 2,
-      "poster_path": "/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg",
-      "id": 2
-    },
-    {
-      "movieId": 122,
-      "watchListId": 2,
-      "poster_path": "/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+      "email": "ringbearer@fellowship.org",
+      "name": "Frodo Baggins",
       "id": 3
     },
     {
-      "movieId": 123,
-      "watchListId": 2,
-      "poster_path": "/4O3s0IGZJirPBecqEnP9qsjlTQw.jpg",
+      "email": "lskywalker@rebel.org",
+      "name": "Luke Skywalker",
       "id": 4
     },
     {
-      "movieId": 679,
-      "watchListId": 3,
-      "poster_path": "/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg",
+      "email": "test@test.com",
+      "name": "Marty McFly",
       "id": 5
-    },
-    {
-      "movieId": 348,
-      "watchListId": 3,
-      "poster_path": "/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
-      "id": 6
-    },
-    {
-      "movieId": 13820,
-      "watchListId": 3,
-      "poster_path": "/o4ebvSc2rWuwULA2RJQ6ap3S7xI.jpg",
-      "id": 7
-    },
-    {
-      "movieId": 1091,
-      "watchListId": 3,
-      "poster_path": "/tzGY49kseSE9QAKk47uuDGwnSCu.jpg",
-      "id": 8
-    },
-    {
-      "movieId": 9538,
-      "watchListId": 3,
-      "poster_path": "/4tgdJp09TObBSKNooYucqibC4WH.jpg",
-      "id": 9
-    },
-    {
-      "movieId": 1891,
-      "watchListId": 3,
-      "poster_path": "/7BuH8itoSrLExs2YZSsM01Qk2no.jpg",
-      "id": 10
-    },
-    {
-      "movieId": 218,
-      "watchListId": 3,
-      "poster_path": "/qvktm0BHcnmDpul4Hz01GIazWPr.jpg",
-      "id": 11
-    },
-    {
-      "movieId": 78,
-      "watchListId": 3,
-      "poster_path": "/qLX91FhHWCVrxDVsw0g2UD5c3Zk.jpg",
-      "id": 12
-    },
-    {
-      "movieId": 1362,
-      "watchListId": 1,
-      "poster_path": "/2ohvyMPhvjftLrM6S6Ljr6QrL0u.jpg",
-      "id": 22
-    },
-    {
-      "movieId": 879,
-      "watchListId": 1,
-      "poster_path": "/a6rB1lGXoGms7gWxRfJneQmAjNV.jpg",
-      "id": 13
-    },
-    {
-      "movieId": 9340,
-      "watchListId": 1,
-      "poster_path": "/eBU7gCjTCj9n2LTxvCSIXXOvHkD.jpg",
-      "id": 14
-    },
-    {
-      "movieId": 19933,
-      "watchListId": 1,
-      "poster_path": "/mEZcPMNRqTcotOZSttN5MtmJbu1.jpg",
-      "id": 15
-    },
-    {
-      "movieId": 8844,
-      "watchListId": 1,
-      "poster_path": "/vgpXmVaVyUL7GGiDeiK1mKEKzcX.jpg",
-      "id": 16
-    },
+    }
+  ],
+  "watchListMovies": [
     {
       "movieId": 289,
       "watchListId": 4,
@@ -131,28 +44,252 @@
       "watchListId": 4,
       "poster_path": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
       "id": 19
+    },
+    {
+      "movieId": 694,
+      "watchListId": 7,
+      "poster_path": "/nRj5511mZdTl4saWEPoj9QroTIu.jpg",
+      "id": 31
+    },
+    {
+      "movieId": 121,
+      "watchListId": 6,
+      "poster_path": "/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg",
+      "id": 35
+    },
+    {
+      "movieId": 120,
+      "watchListId": 3,
+      "poster_path": "/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
+      "id": 37
+    },
+    {
+      "movieId": 123,
+      "watchListId": 3,
+      "poster_path": "/4O3s0IGZJirPBecqEnP9qsjlTQw.jpg",
+      "id": 39
+    },
+    {
+      "movieId": 348,
+      "watchListId": 3,
+      "poster_path": "/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
+      "id": 40
+    },
+    {
+      "movieId": 218,
+      "watchListId": 3,
+      "poster_path": "/qvktm0BHcnmDpul4Hz01GIazWPr.jpg",
+      "id": 41
+    },
+    {
+      "movieId": 2059,
+      "watchListId": 6,
+      "poster_path": "/20MSnfTICmwvAs2YJTqcSTjwBDc.jpg",
+      "id": 42
+    },
+    {
+      "movieId": 809,
+      "watchListId": 8,
+      "poster_path": "/oljiDFPyMY437BRRV69AzVDSiKy.jpg",
+      "id": 43
+    },
+    {
+      "movieId": 129,
+      "watchListId": 8,
+      "poster_path": "/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+      "id": 44
+    },
+    {
+      "movieId": 10198,
+      "watchListId": 8,
+      "poster_path": "/yprv5PbnEksoVj2v6XEnDBg9joR.jpg",
+      "id": 45
+    },
+    {
+      "movieId": 334,
+      "watchListId": 8,
+      "poster_path": "/uq2u8HgtLFJkjNq2kHb2jvipIPT.jpg",
+      "id": 46
+    },
+    {
+      "movieId": 653578,
+      "watchListId": 8,
+      "poster_path": "/osN5whpwiXN5j7umqemCKoCiXKi.jpg",
+      "id": 48
+    },
+    {
+      "movieId": 147,
+      "watchListId": 4,
+      "poster_path": "/12PuU23kkDLvTd0nb8hMlE3oShB.jpg",
+      "id": 49
+    },
+    {
+      "movieId": 213,
+      "watchListId": 4,
+      "poster_path": "/9pf8CuIT64cFvsyocWOjbKGcXmt.jpg",
+      "id": 50
+    },
+    {
+      "movieId": 269,
+      "watchListId": 4,
+      "poster_path": "/9Wx0Wdn2EOqeCZU4SP6tlS3LOml.jpg",
+      "id": 56
+    },
+    {
+      "movieId": 1362,
+      "watchListId": 11,
+      "poster_path": "/2ohvyMPhvjftLrM6S6Ljr6QrL0u.jpg",
+      "id": 57
+    },
+    {
+      "movieId": 19933,
+      "watchListId": 11,
+      "poster_path": "/mEZcPMNRqTcotOZSttN5MtmJbu1.jpg",
+      "id": 58
+    },
+    {
+      "movieId": 9340,
+      "watchListId": 11,
+      "poster_path": "/eBU7gCjTCj9n2LTxvCSIXXOvHkD.jpg",
+      "id": 59
+    },
+    {
+      "movieId": 329,
+      "watchListId": 11,
+      "poster_path": "/9i3plLl89DHMz7mahksDaAo7HIS.jpg",
+      "id": 60
+    },
+    {
+      "movieId": 8392,
+      "watchListId": 11,
+      "poster_path": "/rtGDOeG9LzoerkDGZF9dnVeLppL.jpg",
+      "id": 61
+    },
+    {
+      "movieId": 655,
+      "watchListId": 4,
+      "poster_path": "/6NuFYT1f1rG0AeIVTJEgsRa7AOi.jpg",
+      "id": 65
+    },
+    {
+      "movieId": 2786,
+      "watchListId": 12,
+      "poster_path": "/i124H6iQB4CawrgFW9aZaZs7OBO.jpg",
+      "id": 67
+    },
+    {
+      "movieId": 269,
+      "watchListId": 12,
+      "poster_path": "/9Wx0Wdn2EOqeCZU4SP6tlS3LOml.jpg",
+      "id": 68
+    },
+    {
+      "movieId": 8072,
+      "watchListId": 12,
+      "poster_path": "/fFJP3D5fJDFxN7ChqSye1DZ0fTL.jpg",
+      "id": 69
+    },
+    {
+      "movieId": 1626,
+      "watchListId": 12,
+      "poster_path": "/lYTAYclvYIa1SR4wRwMW7OwGp86.jpg",
+      "id": 70
+    },
+    {
+      "movieId": 266,
+      "watchListId": 12,
+      "poster_path": "/3BL3pykwRR3RUd1zDj082Vz89Kl.jpg",
+      "id": 71
+    },
+    {
+      "movieId": 29161,
+      "watchListId": 13,
+      "poster_path": "/dhk14s8ogQkbf6re3HLKV2UBHjx.jpg",
+      "id": 72
+    },
+    {
+      "movieId": 11449,
+      "watchListId": 13,
+      "poster_path": "/7VMscq0659xKmcXzd86de1DGV4W.jpg",
+      "id": 73
+    },
+    {
+      "movieId": 814,
+      "watchListId": 13,
+      "poster_path": "/3vCDeq3mWJY0uJ5CvmJwOXWNBft.jpg",
+      "id": 74
+    },
+    {
+      "movieId": 15856,
+      "watchListId": 13,
+      "poster_path": "/g5kdFt3piV3w1pG65W9sSToJ7HB.jpg",
+      "id": 75
+    },
+    {
+      "movieId": 25623,
+      "watchListId": 13,
+      "poster_path": "/lhnQOGDYZJ4r4FJV74tsa4sqKam.jpg",
+      "id": 76
+    },
+    {
+      "movieId": 879,
+      "watchListId": 11,
+      "poster_path": "/a6rB1lGXoGms7gWxRfJneQmAjNV.jpg",
+      "id": 77
+    },
+    {
+      "movieId": 50785,
+      "watchListId": 12,
+      "poster_path": "/pzKFKVZHeGhJQYWZN6qO3GXUApU.jpg",
+      "id": 78
+    },
+    {
+      "movieId": 11906,
+      "watchListId": 13,
+      "poster_path": "/5ya8jTbNZTrCFUx9OwpNBjCivXY.jpg",
+      "id": 79
     }
   ],
   "watchLists": [
     {
-      "id": 1,
-      "name": "Childhood Favorites",
-      "userId": 2
-    },
-    {
-      "id": 2,
-      "name": "LOTR Movies",
+      "id": 3,
+      "name": "Sci Fi",
       "userId": 1
-    },
-    {
-      "name": "80s Sci Fy",
-      "userId": 1,
-      "id": 3
     },
     {
       "name": "Solid Classics",
       "userId": 2,
       "id": 4
+    },
+    {
+      "id": 6,
+      "name": "Cage",
+      "userId": 1
+    },
+    {
+      "name": "Kubrick Klassics",
+      "userId": 3,
+      "id": 7
+    },
+    {
+      "name": "Films About Frogs",
+      "userId": 2,
+      "id": 8
+    },
+    {
+      "name": "Childhood Favorites",
+      "userId": 2,
+      "id": 11
+    },
+    {
+      "name": "By Godard",
+      "userId": 2,
+      "id": 12
+    },
+    {
+      "name": "Josh's Horror Picks",
+      "userId": 2,
+      "id": 13
     }
   ]
 }
